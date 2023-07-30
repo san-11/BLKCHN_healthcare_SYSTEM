@@ -1,0 +1,22 @@
+.txt1 {
+    color: rgb(3, 1, 44);
+    text-align: center;
+    font-size: 50pt;
+    padding-top: 35vh;
+    text-shadow: #473030;
+}
+
+.myStyle {
+    background-image: url('./doctor-bg.jpg');
+    background-size: cover;
+    height: 100vh;
+    color: #473030;
+}
+
+.nav-link {
+    font-size: large;
+}
+
+.folderTab {
+    font-size: medium;
+}
